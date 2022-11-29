@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 Contact me: romerolissette17@gmail.com
 ### Connect with me
 
 <a target="_blank" href="https://www.linkedin.com/in/lissette-romero-31645a21a/" rel="nofollow">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a>
+<a href="mailto:romerolissette17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" style="max-width: 100%;"></a>
 <br>
 
 ### Status
