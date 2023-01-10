@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Status
 <div dir="auto" align="center">
   <a href="https://github.com/KarlaRomero17/">
-    <img src="https://github-readme-stats.vercel.app/api?username=karlaromero17&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" height="180em">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=karlaromero17&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;" height="180em">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlaromero17&amp;layout=compact&amp;langs_count=7&amp;theme=merko" style="max-width: 100%;" height="180em">
   </a>
 </div>
