@@ -1,5 +1,6 @@
 ### Hi, I'm Karla Romero👋
 
+I am a software developer with almost 4 years of experience in the industry, specializing in web applications. Passionate about clean and efficient code, I am always eager to learn and embrace new technologies. I am open to new challenges and personal growth. If you're looking for a developer, let's connect!
 <!--
 **KarlaRomero17/karlaromero17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-<a target="_blank" href="https://www.linkedin.com/in/lissette-romero-31645a21a/" rel="nofollow">
+<a target="_blank" href="https://www.linkedin.com/in/romerolissette" rel="nofollow">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
 </a>
 <a href="mailto:romerolissette17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" style="max-width: 100%;"></a>
