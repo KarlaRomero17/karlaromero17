@@ -95,13 +95,13 @@ More details coming soon.
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=KarlaRomero17&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.shion.dev/api?username=KarlaRomero17&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=E91E63&icon_color=EC407A&text_color=666666" height="170" />
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KarlaRomero17&theme=transparent&hide_border=true&include_all_commits=true&layout=compact" height="170" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KarlaRomero17&theme=transparent&hide_border=true&include_all_commits=true&layout=compact&title_color=E91E63&text_color=666666" height="170" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=KarlaRomero17&theme=transparent&hide_border=true" height="170" />
+<img src="https://streak-stats.demolab.com/?user=KarlaRomero17&theme=transparent&hide_border=true&ring=E91E63&fire=EC407A&currStreakLabel=E91E63&sideLabels=E91E63" height="170" />
 
 </div>
 
